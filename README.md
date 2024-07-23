@@ -21,7 +21,7 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 
 
 ## Follow Me on
-1. LinkedIn - [Yogesh Kumar](https://www.linkedin.com/in/yogesh-kumar-1655a324a/ "Yogesh Srivastava on LinkedIn")
+1. LinkedIn - [Yogesh Kumar](https://www.linkedin.com/in/yogesh-srivastava-1655a324a/ "Yogesh Srivastava on LinkedIn")
 2. Instagram - [@yogesh_0m](https://www.instagram.com/yogesh_0m/ "Yogesh Srivastava on Instagram")
 3. Facebook - [@yogeshSrivastava](https://www.facebook.com/profile.php?id=100015219615864 "Yogesh Srivastava on Facebook")
 5. Twitter - [@Yogesh0m9760](https://twitter.com/Yogesh0m9760 "Yogesh Srivastava on Twitter")
